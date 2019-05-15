@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ChatRooms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="chatRooms.xsd">
+	<Room id="1">
+		<name>Weather</name>
+	</Room>
+	<Room id="2">
+		<name>Music</name>
+	</Room>
+	<Room id="3">
+		<name>Games</name>
+	</Room>
+</ChatRooms>

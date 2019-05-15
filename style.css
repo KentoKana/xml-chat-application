@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding:0;
+    margin: 0;
+    font-family: sans-serif, arial;
+    color: #121614;
+    font-size: 20px;
+    background-color: #f1e8b8;
+}
+
+
+h1 {
+    color:inherit;
+}
+
+.body-wrap {
+    display: flex;
+    height: 100vh;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 3em;
+    margin: auto;;
+    background-color: #e58f65;
+    border-radius: 5px;
+    border: solid 5px #f4d35e;
+
+}
+.login-form-div input {
+    margin: 1em;
+    text-align: center;
+    height: 2em;
+    width: 80%;
+    border: solid 1px #c33149;
+    border-radius: 5px;
+}
+
+.primary-btn {
+    font-size: 1.3em;
+    background-color: #c33149;
+    color: #f4d35e;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.secondary-btn {
+    font-size: 1.3em;
+    background-color: #2176ae;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.primary-btn:hover {
+    background-color: brown;;
+}
+
+.secondary-btn:hover {
+    background-color: navy;;
+}
+
+.google-login div{
+    margin: auto;
+}
+
+.invalid {
+    color: #c33149;
+}
+
+#chat__display {
+    text-align: left;
+    width: 50em;
+    overflow-x: hidden;
+    background-color: #f9e784;
+    border-radius: 5px;
+}
+
+.userDisp {
+    color: #2176ae;
+}
+
+#chat__formDiv {
+    text-align: left;
+}
+
+#chat__input {
+    font-size: 0.8em;
+    width: 80%;
+    height: 2.5em;;
+}
+
+.usernameDisp {
+    color: #e58f65;
+}
+
+#logoutBtn {
+    margin-top: 0.5em;
+    background-color: red;
+}
+
+#logoutBtn:hover {
+    margin-top: 0.5em;
+    background-color: brown;
+}
+
+#chat__display {
+    height: 300px;
+    width: 100%;
+    border: 1px solid;
+    overflow-y: auto;
+}
+
+.chatConsoleWrap {
+    background-color:#2176ae;
+    padding: 1em;
+    color: #f4d35e;
+}

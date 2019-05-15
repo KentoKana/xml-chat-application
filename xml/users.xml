@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <userId>1</userId>
+        <username>Raymond</username>
+        <password>$2y$10$TmPzEFsZNXoB3hFmAkwbYuFfhqpep31MTyJNQvRM9rgKsqUxbn/ZO</password>
+    </user>
+    <user>
+        <userId>2</userId>
+        <username>Mark</username>
+        <password>$2y$10$./3Dbvg.kwq.I8lrRBH9GOJqSVacDETYuSx1GMlW36lFnnvW0/OEK</password>
+    </user>
+    <user>
+        <userId>3</userId>
+        <username>Kento</username>
+        <password>$2y$10$LJ5XZHuppta2bM8orOX9dew/XUSmlnQ916s4zQdl8NGkabUOEusEe</password>
+    </user>
+    <user>
+        <userId>4</userId>
+        <username>BevDev</username>
+        <password>$2y$10$VcXCOaZh4qBiO2/C5pp2VOnKnydcvSJnv68OBrzdTMU5QFot4BeRm</password>
+    </user>
+</users>

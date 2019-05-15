@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Room id="1">
+  <message>
+    <messageId>0</messageId>
+    <date>2019-04-09 18:27:11</date>
+    <user>
+      <userId>3</userId>
+      <username>Kento</username>
+    </user>
+    <content>Hello!</content>
+  </message>
+</Room>
