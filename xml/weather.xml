@@ -9,4 +9,22 @@
     </user>
     <content>Hello!</content>
   </message>
+  <message>
+    <messageId>1</messageId>
+    <date>2019-05-15 22:49:56</date>
+    <user>
+      <userId>3</userId>
+      <username>Kento</username>
+    </user>
+    <content>Hello</content>
+  </message>
+  <message>
+    <messageId>2</messageId>
+    <date>2019-05-16 06:07:56</date>
+    <user>
+      <userId>3</userId>
+      <username>Kento</username>
+    </user>
+    <content>I am scrub</content>
+  </message>
 </Room>

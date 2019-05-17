@@ -66,12 +66,12 @@ if(isset($_SESSION['username'])) {
     }
 
     ?>
-            <div class="google-login">
+           <!-- <div class="google-login">
                 <p>Sign in with Google:</p>
 
                 <div class="g-signin2" data-onsuccess="onSignIn"></div>
             </div>
-
+	   -->
             <script src="https://apis.google.com/js/platform.js" async defer></script>
             <!-- JQuery -->
             <script src="http://code.jquery.com/jquery-3.3.1.min.js"
